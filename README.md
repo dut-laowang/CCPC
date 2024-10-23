@@ -12,4 +12,4 @@ CCPC_test_10k_1.0.csv is a case document with 5k PCL data, and the final dataset
 
 
 ## 📌Full Dataset
-Coming soon...
+The dataset for binary classification is now available. 
